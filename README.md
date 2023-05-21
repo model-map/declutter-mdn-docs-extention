@@ -4,7 +4,7 @@ A firefox extension to declutter mdn docs pages.
 
 # Getting started:
 
-Download the extension from https://addons.mozilla.org/en-US/firefox/addon/decluttermdn/
+Download the extension from https://addons.mozilla.org/en-US/firefox/addon/decluttermdn/ (Awaiting review from Firefox. Can still be installed manually)
 
 # Screenshots:
 
