@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Declutter MDN",
+  "version": "1.0",
+
+  "description": "Declutters MDN docs by removing everything except the main section",
+
+  "icons": {
+    "48": "icons/icon.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://developer.mozilla.org/en-US/docs/*"],
+      "js": ["declutterMdn.js"]
+    }
+  ]
+}
