@@ -1,6 +1,7 @@
-# declutter-mdn-docs-extention
+# declutterMdn
 
-MDN Declutter simplifies the MDN docs by removing distractions and keeping only the main article. It's a helpful tool for students studying and browsing through MDN docs, allowing them to stay focused, learn effectively, and be more productive.
+DeclutterMdn is a firefox extension that simplifies the MDN docs by removing distractions and keeping only the main article.
+It's a helpful tool for students studying and browsing through MDN docs, allowing them to stay focused, learn effectively, and be more productive.
 
 # Getting started:
 
