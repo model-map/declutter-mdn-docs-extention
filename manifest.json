@@ -2,8 +2,9 @@
   "manifest_version": 2,
   "name": "Declutter MDN",
   "version": "1.0",
+  "homepage_url": "https://github.com/model-map/declutterMdn"
 
-  "description": "Declutters MDN docs by removing everything except the main section",
+  "description": "MDN Declutter simplifies the MDN docs by removing distractions and keeping only the main article. It's a helpful tool for students studying and browsing through MDN docs, allowing them to stay focused, learn effectively, and be more productive.",
 
   "icons": {
     "48": "icons/icon.png"
