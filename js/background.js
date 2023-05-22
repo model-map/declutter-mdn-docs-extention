@@ -1,6 +1,6 @@
 function Listener() {
   browser.tabs.executeScript({
-    file: "declutterMdn.js",
+    file: "js/declutterMdn.js",
   });
 }
 

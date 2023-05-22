@@ -9,7 +9,7 @@
   "permissions": ["activeTab"],
 
   "background": {
-    "scripts": ["background.js"]
+    "scripts": ["js/background.js"]
   },
 
   "icons": {
