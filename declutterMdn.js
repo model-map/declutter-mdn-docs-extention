@@ -1,13 +1,17 @@
-//Hiding topbars
-const allTopBars = document.querySelectorAll(
-  ".page-wrapper.document-page > :not(.main-wrapper)"
-);
-allTopBars.forEach((topbar) => (topbar.style["display"] = `none`));
+function toggle() {
+  const allTopBars = document.querySelectorAll(
+    ".page-wrapper.document-page > :not(.main-wrapper)"
+  );
+  const quicklinks = document.querySelector("#sidebar-quicklinks");
+  const toc_container = document.querySelector(".toc-container");
+  const navFooter = document.querySelector("#nav-footer");
 
-//Hiding sidebars
-const sidebars = document.querySelectorAll(".sidebar-container");
-sidebars.forEach((side) => (side.style["display"] = `none`));
+  //adding all DOMs to an array
+  const arr = [quicklinks, toc_container, navFooter];
+  allTopBars.forEach((topbar) => arr.push(topbar));
 
-//Hiding footers
-const navFooter = document.querySelector("#nav-footer");
-navFooter.style["display"] = "none";
+  arr.forEach((dom) => {
+    dom.style.display = dom.style.display === "none" ? "block" : "none";
+  });
+}
+toggle();
