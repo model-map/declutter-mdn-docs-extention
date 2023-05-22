@@ -5,7 +5,9 @@ It's a helpful tool for students studying and browsing through MDN docs, allowin
 
 # Getting started:
 
-Download the extension from https://addons.mozilla.org/en-US/firefox/addon/decluttermdn/ (Awaiting review from Firefox. Can still be installed manually)
+Download the extension from https://addons.mozilla.org/en-US/firefox/addon/decluttermdn/ and that's it!
+
+To uninstall, simply remove the extension.
 
 # Screenshots:
 
