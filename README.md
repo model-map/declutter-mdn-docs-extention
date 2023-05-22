@@ -5,9 +5,13 @@ It's a helpful tool for students studying and browsing through MDN docs, allowin
 
 # Getting started:
 
-Download the extension from https://addons.mozilla.org/en-US/firefox/addon/decluttermdn/ and that's it!
+1. Download the extension from https://addons.mozilla.org/en-US/firefox/addon/decluttermdn/
 
-To uninstall, simply remove the extension.
+2. Pin for easy access
+
+   ![pin](https://github.com/model-map/declutterMdn/assets/118442144/0801cc70-83f2-4770-9916-667935334627)
+
+3. Click extension to toggle clutter on/off.
 
 # Screenshots:
 
@@ -19,6 +23,6 @@ To uninstall, simply remove the extension.
 
 ![decluttered](https://github.com/model-map/declutterMdn/assets/118442144/c11ada48-3283-400c-b5b0-f3d4d98d957e)
 
-# Next-steps:
+# Next steps
 
-    - Add a toggle button to turn clutter off and on
+- Add popup to selectively pick sections to show/hide.
